@@ -1,5 +1,4 @@
 aiohttp
 numpy
 faker
-tqdm
 colorama
